@@ -1,3 +1,3 @@
 # hello-world
 Hi bro,
-   This is asun,thankyou for coming.
+   This is asun, thank you for coming.
